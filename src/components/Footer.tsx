@@ -31,7 +31,7 @@ const Footer = () => {
             <div>
               <p className="text-sm font-semibold text-[#033231] uppercase tracking-wide mb-2 font-montserrat">Ready to Start Your Project!</p>
               <h3 className="text-3xl md:text-4xl font-montserrat font-bold text-[#033231] mb-4">
-                From Idea to Reality, Let's Begin
+                From Idea to Reality, Let&apos;s Begin
               </h3>
             </div>
             <div className="space-y-4">
@@ -39,7 +39,7 @@ const Footer = () => {
                 Your home should be more than a place to live — it should reflect your lifestyle, your values, and your dreams.
               </p>
               <button className="bg-[#033231] hover:bg-[#022220] text-[#cbff54] font-semibold py-3 px-8 rounded-2xl transition-colors duration-200">
-                Let's Talk
+                Let&apos;s Talk
               </button>
             </div>
           </div>

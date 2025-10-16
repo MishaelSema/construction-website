@@ -22,7 +22,7 @@ const ProjectsPage = () => {
                 From Vision to Reality
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 leading-relaxed mb-8">
-                Explore a showcase of the spaces we've proudly built — and a preview of what's coming next. 
+                Explore a showcase of the spaces we&apos;ve proudly built — and a preview of what&apos;s coming next. 
                 Every build tells a story of trust, quality, and purpose.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -159,7 +159,7 @@ const ProjectsPage = () => {
               Ready to Create Your Success Story?
             </h2>
             <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
-              Join our portfolio of satisfied clients. Let's build something extraordinary together that you'll be proud to showcase.
+              Join our portfolio of satisfied clients. Let&apos;s build something extraordinary together that you&apos;ll be proud to showcase.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-blue-600 hover:bg-gray-100 font-semibold py-4 px-8 rounded-lg transition-colors text-lg">

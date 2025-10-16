@@ -22,8 +22,8 @@ const TestimonialsPage = () => {
                 What Our Clients Say
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 leading-relaxed mb-8">
-                Don't just take our word for it. Here's what our satisfied clients have to say about their 
-                BuildCraft construction experience and the quality of our work.
+                Don&apos;t just take our word for it. Here&apos;s what our satisfied clients have to say about their 
+                Metro Builds construction experience and the quality of our work.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <button className="btn-primary text-lg px-8 py-4">
@@ -152,7 +152,7 @@ const TestimonialsPage = () => {
                 Client Success Stories
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Read detailed case studies about how we've helped our clients achieve their construction goals.
+                Read detailed case studies about how we&apos;ve helped our clients achieve their construction goals.
               </p>
             </div>
 
@@ -217,7 +217,7 @@ const TestimonialsPage = () => {
                     </div>
                     <div>
                       <blockquote className="text-lg text-gray-700 italic leading-relaxed mb-4">
-                        "{story.testimonial}"
+                        &ldquo;{story.testimonial}&rdquo;
                       </blockquote>
                       <div className="flex items-center space-x-2">
                         <div className="flex text-yellow-400">

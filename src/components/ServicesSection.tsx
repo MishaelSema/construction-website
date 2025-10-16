@@ -1,6 +1,6 @@
 'use client';
 
-import { HomeIcon, BuildingIcon, ToolsIcon, FactoryIcon, HammerIcon, SettingsIcon } from './icons';
+import { HomeIcon, BuildingIcon, ToolsIcon } from './icons';
 import { useState } from 'react';
 import ContactModal from './ContactModal';
 

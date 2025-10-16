@@ -229,7 +229,7 @@ const ServicesPage = () => {
                 Our Process, Made Simple
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                We believe great construction starts with great communication. That's why our process is built around 
+                We believe great construction starts with great communication. That&apos;s why our process is built around 
                 transparency, trust, and timely execution — so you always know what to expect.
               </p>
             </div>
@@ -312,7 +312,7 @@ const ServicesPage = () => {
               Ready to Start Your Project?
             </h2>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              From idea to reality, let's begin. Schedule a free consultation to discuss your construction needs 
+              From idea to reality, let&apos;s begin. Schedule a free consultation to discuss your construction needs 
               and get a detailed quote for your project.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

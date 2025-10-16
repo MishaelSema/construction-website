@@ -20,10 +20,10 @@ const ContactPage = () => {
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto text-center">
               <h1 className="text-5xl md:text-6xl font-display font-bold text-gray-900 mb-6">
-                Get in Touch with BuildCraft
+                Get in Touch with Metro Builds
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 leading-relaxed mb-8">
-                Reach out today to schedule a free consultation. We're here to help bring your construction vision to life.
+                Reach out today to schedule a free consultation. We&apos;re here to help bring your construction vision to life.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <button className="btn-primary text-lg px-8 py-4">
@@ -215,7 +215,7 @@ const ContactPage = () => {
               Ready to Start Your Construction Project?
             </h2>
             <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
-              Don't wait to bring your vision to life. Contact us today for a free consultation and detailed quote.
+              Don&apos;t wait to bring your vision to life. Contact us today for a free consultation and detailed quote.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-blue-600 hover:bg-gray-100 font-semibold py-4 px-8 rounded-lg transition-colors text-lg">

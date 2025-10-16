@@ -1,4 +1,4 @@
-import { UsersIcon, AwardIcon, ClockIcon, ShieldIcon, HammerIcon, SettingsIcon, ConstructionIcon, BuildingIcon } from './icons';
+import { UsersIcon, AwardIcon, ShieldIcon, ConstructionIcon, BuildingIcon } from './icons';
 import { CheckCircle } from 'lucide-react';
 
 const AboutSection = () => {
@@ -49,7 +49,7 @@ const AboutSection = () => {
                 Trusted Local Construction Partner in Yaounde.
               </h2>
               <p className="text-lg lg:text-xl text-gray-600 leading-relaxed font-montserrat">
-                At Brikly, we're proud to serve Yaounde with reliable, high-quality construction services. From custom homes to commercial builds, our local expertise ensures every project is done right. We build with integrity, craftsmanship, and a commitment to your vision.
+                At Metro Builds, we&apos;re proud to serve Yaounde with reliable, high-quality construction services. From custom homes to commercial builds, our local expertise ensures every project is done right. We build with integrity, craftsmanship, and a commitment to your vision.
               </p>
             </div>
 

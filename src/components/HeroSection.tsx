@@ -1,10 +1,9 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import { ChevronRight, CheckCircle, Clock, Award } from 'lucide-react';
+import React from 'react';
+import { CheckCircle, Clock, Award } from 'lucide-react';
 
 const HeroSection = () => {
-  const [currentSlide, setCurrentSlide] = useState(0);
 
   const slides = [
     {

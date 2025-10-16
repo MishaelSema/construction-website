@@ -141,8 +141,8 @@ const CareersPage = () => {
                 Join the Team That Builds With Purpose
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 leading-relaxed mb-8">
-                Build More Than Just Buildings — Build a Future. At BuildCraft, we're not just constructing homes 
-                and commercial spaces — we're building trust, opportunity, and lasting impact across Texas.
+                Build More Than Just Buildings — Build a Future. At Metro Builds, we&apos;re not just constructing homes 
+                and commercial spaces — we&apos;re building trust, opportunity, and lasting impact across Cameroon.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <button className="btn-primary text-lg px-8 py-4">
@@ -164,7 +164,7 @@ const CareersPage = () => {
                 Why Work With Us
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                At BuildCraft, you're more than just a team member — you're a builder of homes, dreams, and communities. 
+                At Metro Builds, you&apos;re more than just a team member — you&apos;re a builder of homes, dreams, and communities. 
                 We value your skills, respect your time, and support your growth.
               </p>
             </div>
@@ -207,10 +207,10 @@ const CareersPage = () => {
                 Founder's Message
               </h2>
               <blockquote className="text-xl md:text-2xl text-blue-100 leading-relaxed mb-8 italic">
-                "At BuildCraft, every project is personal. I started this company with a simple belief: quality work, 
-                delivered with honesty, never goes out of style. Our goal isn't just to complete jobs — it's to exceed 
+                &ldquo;At Metro Builds, every project is personal. I started this company with a simple belief: quality work, 
+                delivered with honesty, never goes out of style. Our goal isn&apos;t just to complete jobs — it&apos;s to exceed 
                 expectations, earn trust, and make a lasting impact on the communities we serve. From my first site visit 
-                to the final nail, I'm proud of the team that brings it all to life."
+                to the final nail, I&apos;m proud of the team that brings it all to life.&rdquo;
               </blockquote>
               <div className="flex items-center justify-center space-x-4">
                 <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center">
@@ -354,8 +354,8 @@ const CareersPage = () => {
               Ready to Build Your Career With Us?
             </h2>
             <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
-              Don't see a position that matches your skills? We're always looking for talented individuals 
-              to join our team. Send us your resume and let's talk about opportunities.
+              Don&apos;t see a position that matches your skills? We&apos;re always looking for talented individuals 
+              to join our team. Send us your resume and let&apos;s talk about opportunities.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-blue-600 hover:bg-gray-100 font-semibold py-4 px-8 rounded-lg transition-colors text-lg">

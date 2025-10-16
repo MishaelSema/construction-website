@@ -91,7 +91,7 @@ const AboutPage = () => {
                 Building With Purpose, Backed by Trust
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 leading-relaxed mb-8">
-                At BuildCraft, we don't just build spaces — we build lasting relationships and communities that thrive for generations.
+                At Metro Builds, we don&apos;t just build spaces — we build lasting relationships and communities that thrive for generations.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <button className="btn-primary text-lg px-8 py-4">
@@ -114,13 +114,13 @@ const AboutPage = () => {
                   Built in Texas. Trusted Across the Southwest.
                 </h2>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  At BuildCraft, we believe construction is more than just concrete and steel — it's about building trust, 
-                  understanding your vision, and creating spaces that last for generations. Based in the heart of Texas, 
-                  we've been delivering high-quality residential and commercial construction services across the Southwest 
+                  At Metro Builds, we believe construction is more than just concrete and steel — it&apos;s about building trust, 
+                  understanding your vision, and creating spaces that last for generations. Based in the heart of Yaounde, 
+                  we&apos;ve been delivering high-quality residential and commercial construction services across Cameroon 
                   with pride, precision, and purpose.
                 </p>
                 <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                  Founded in 1998, BuildCraft has grown from a small family business into one of Texas's most respected 
+                  Founded in 1998, Metro Builds has grown from a small family business into one of Cameroon&apos;s most respected 
                   construction companies. Our journey has been marked by innovation, integrity, and an unwavering 
                   commitment to excellence that has earned us the trust of hundreds of satisfied clients.
                 </p>
@@ -261,11 +261,11 @@ const AboutPage = () => {
         <section className="py-20 bg-blue-600">
           <div className="container mx-auto px-4 text-center">
             <h2 className="text-4xl font-display font-bold text-white mb-6">
-              Ready to Work With Texas's Trusted Builders?
+              Ready to Work With Cameroon&apos;s Trusted Builders?
             </h2>
             <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
-              Join the hundreds of satisfied clients who have chosen BuildCraft for their construction needs. 
-              Let's build something extraordinary together.
+              Join the hundreds of satisfied clients who have chosen Metro Builds for their construction needs. 
+              Let&apos;s build something extraordinary together.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-blue-600 hover:bg-gray-100 font-semibold py-4 px-8 rounded-lg transition-colors text-lg">

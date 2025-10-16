@@ -7,10 +7,10 @@ const ContactSection = () => {
           <div className="space-y-8">
             <div>
               <h2 className="text-4xl md:text-5xl font-montserrat font-bold mb-6">
-                Let's Build Your Dream Home.
+                Let&apos;s Build Your Dream Home.
               </h2>
               <p className="text-xl text-gray-200 leading-relaxed font-montserrat">
-                Whether it's a new build, a remodel, or just an idea — we're here to help bring it to life. Let's talk and explore how Brikly can make it happen.
+                Whether it&apos;s a new build, a remodel, or just an idea — we&apos;re here to help bring it to life. Let&apos;s talk and explore how Metro Builds can make it happen.
               </p>
             </div>
             

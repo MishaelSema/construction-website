@@ -70,7 +70,7 @@ const TestimonialsSection = () => {
               <div className="absolute inset-0 p-8 flex flex-col justify-between">
                 {/* Top Section - Quote */}
                 <div className="flex justify-end">
-                  <div className="text-white/20 text-6xl font-bold font-montserrat">"</div>
+                  <div className="text-white/20 text-6xl font-bold font-montserrat">&ldquo;</div>
                 </div>
                 
                 {/* Middle Section - Testimonial */}

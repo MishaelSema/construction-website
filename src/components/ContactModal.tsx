@@ -59,7 +59,7 @@ const ContactModal = ({ isOpen, onClose }: ContactModalProps) => {
           <div className="flex items-center justify-between p-6 border-b border-gray-200">
             <div>
               <h2 className="text-2xl font-bold text-gray-900 font-montserrat">Get in Touch</h2>
-              <p className="text-gray-600 font-montserrat">Let's discuss your project</p>
+              <p className="text-gray-600 font-montserrat">Let&apos;s discuss your project</p>
             </div>
             <button
               onClick={onClose}
