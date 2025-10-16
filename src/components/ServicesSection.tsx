@@ -12,22 +12,22 @@ const ServicesSection = () => {
     {
       icon: HomeIcon,
       title: "Residential Construction",
-      description: "Custom-built homes designed with care, quality, and Austin's unique character in mind.",
-      features: ["Custom Home Design", "Energy Efficient Building", "Smart Home Integration", "Landscaping"],
+      description: "Custom-built homes designed with care, quality, and Yaounde's unique character in mind.",
+      features: ["Custom Home Design", "Energy Efficient Building", "Smart Home Integration"],
       color: "blue"
     },
     {
       icon: BuildingIcon,
       title: "Commercial Buildings",
       description: "Smart, scalable commercial spaces that support growth and reflect your business values.",
-      features: ["Office Buildings", "Retail Spaces", "Restaurants", "Warehouses"],
+      features: ["Office Buildings", "Retail Spaces", "Restaurants"],
       color: "green"
     },
     {
       icon: ToolsIcon,
       title: "Renovation & Remodeling",
       description: "Transform existing spaces with modern upgrades, improved function, and fresh appeal.",
-      features: ["Kitchen Remodeling", "Bathroom Renovation", "Basement Finishing", "Room Additions"],
+      features: ["Kitchen Remodeling", "Bathroom Renovation", "Room Additions"],
       color: "orange"
     }
   ];

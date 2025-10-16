@@ -10,7 +10,7 @@ const HeroSection = () => {
     {
       title: "Building Your Dreams to Reality",
       subtitle: "25+ Years of Excellence",
-      description: "From custom homes to commercial spaces, Brikly delivers quality construction solutions across Austin, Texas — on time, on budget, and built to last.",
+      description: "From custom homes to commercial spaces, Metro Builds delivers quality construction solutions across Yaounde, Cameroon — on time, on budget, and built to last.",
       image: "/hero-1.jpg",
       cta: "Enquire Now"
     }
@@ -54,7 +54,7 @@ const HeroSection = () => {
                 Building Your Dreams to Reality
               </h1>
               <p className="text-base sm:text-lg md:text-xl lg:text-2xl mb-6 sm:mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed px-4">
-                From custom homes to commercial spaces, Brikly delivers quality construction solutions across Yaounde, Cameroon — on time, on budget, and built to last.
+                From custom homes to commercial spaces, Metro Builds delivers quality construction solutions across Yaounde, Cameroon — on time, on budget, and built to last.
               </p>
             </div>
 
