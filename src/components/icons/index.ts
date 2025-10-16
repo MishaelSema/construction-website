@@ -1,0 +1,15 @@
+export { default as ConstructionIcon } from './ConstructionIcon';
+export { default as HomeIcon } from './HomeIcon';
+export { default as BuildingIcon } from './BuildingIcon';
+export { default as ToolsIcon } from './ToolsIcon';
+export { default as FactoryIcon } from './FactoryIcon';
+export { default as HammerIcon } from './HammerIcon';
+export { default as SettingsIcon } from './SettingsIcon';
+export { default as UsersIcon } from './UsersIcon';
+export { default as AwardIcon } from './AwardIcon';
+export { default as ClockIcon } from './ClockIcon';
+export { default as ShieldIcon } from './ShieldIcon';
+export { default as TargetIcon } from './TargetIcon';
+export { default as HeartIcon } from './HeartIcon';
+export { default as LocationIcon } from './LocationIcon';
+export { default as PhoneIcon } from './PhoneIcon';
