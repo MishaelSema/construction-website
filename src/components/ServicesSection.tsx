@@ -13,22 +13,19 @@ const ServicesSection = () => {
       icon: HomeIcon,
       title: "Residential Construction",
       description: "Custom-built homes designed with care, quality, and Yaounde's unique character in mind.",
-      features: ["Custom Home Design", "Energy Efficient Building", "Smart Home Integration"],
-      color: "blue"
+      features: ["Custom Home Design", "Energy Efficient Building", "Smart Home Integration"]
     },
     {
       icon: BuildingIcon,
       title: "Commercial Buildings",
       description: "Smart, scalable commercial spaces that support growth and reflect your business values.",
-      features: ["Office Buildings", "Retail Spaces", "Restaurants"],
-      color: "green"
+      features: ["Office Buildings", "Retail Spaces", "Restaurants"]
     },
     {
       icon: ToolsIcon,
       title: "Renovation & Remodeling",
       description: "Transform existing spaces with modern upgrades, improved function, and fresh appeal.",
-      features: ["Kitchen Remodeling", "Bathroom Renovation", "Room Additions"],
-      color: "orange"
+      features: ["Kitchen Remodeling", "Bathroom Renovation", "Room Additions"]
     }
   ];
 
@@ -68,7 +65,7 @@ const ServicesSection = () => {
               <div className="relative md:absolute md:bottom-0 md:left-1/2 md:transform md:-translate-x-1/2 md:translate-y-1/2 w-full md:w-[15%] md:min-w-[120px] mt-6 md:mt-0">
                 <div className="bg-white rounded-2xl shadow-lg p-3 md:p-4">
                   <div className="text-center">
-                    <div className={`w-8 h-8 md:w-10 md:h-10 ${getColorClasses(service.color)} rounded-xl flex items-center justify-center mx-auto mb-2 md:mb-3`}>
+                    <div className={`w-8 h-8 md:w-10 md:h-10 ${getColorClasses('')} rounded-xl flex items-center justify-center mx-auto mb-2 md:mb-3`}>
                       <service.icon className="w-4 h-4 md:w-5 md:h-5" />
                     </div>
                     <h3 className="text-sm md:text-base font-montserrat font-bold text-gray-900 mb-2">

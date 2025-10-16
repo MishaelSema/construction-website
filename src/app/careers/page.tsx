@@ -204,7 +204,7 @@ const CareersPage = () => {
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto text-center">
               <h2 className="text-4xl font-display font-bold text-white mb-8">
-                Founder's Message
+                Founder&apos;s Message
               </h2>
               <blockquote className="text-xl md:text-2xl text-blue-100 leading-relaxed mb-8 italic">
                 &ldquo;At Metro Builds, every project is personal. I started this company with a simple belief: quality work, 

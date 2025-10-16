@@ -15,7 +15,7 @@ const CTASection = () => {
               Ready to Start Your Project?
             </h3>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto font-montserrat">
-              Whether it's a new build, renovation, or commercial project, we're here to help bring your vision to life.
+              Whether it&apos;s a new build, renovation, or commercial project, we&apos;re here to help bring your vision to life.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button 
